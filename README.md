@@ -2,9 +2,10 @@
 
 ## 🚀 About Me
 - 🔭 Working on Machine Learning and AI systems
-- 🤖 Interested in Computer Vision, AI, and Optimization
-- 📚 Currently learning Reinforcement Learning
-- ⚡ Fun fact: I love reverse engineering tech
+- 🤖 Interested in AI, Computer Vision, IoT, and Optimization
+- 📚 Currently learning Optimization Techniques
+- ⚡ Fun fact: Mistakes actually help learning
+                That's because the brain strengthens connections when it corrects errors.
 
 ## 💻 Tech Stack
 
