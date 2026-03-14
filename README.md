@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Antu Das
 
-<!--
-**antu08/antu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 Working on Machine Learning and AI systems
+- 🤖 Interested in Computer Vision, AI, and Optimization
+- 📚 Currently learning Reinforcement Learning
+- ⚡ Fun fact: I love reverse engineering tech
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
