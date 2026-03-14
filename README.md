@@ -4,7 +4,7 @@
 - 🔭 Working on Machine Learning and AI systems
 - 🤖 Interested in AI, Computer Vision, IoT, and Optimization
 - 📚 Currently learning Optimization Techniques
-- ⚡ Fun fact: Mistakes actually help learning
+- ⚡ Fun fact: Mistakes actually help learning.
                 That's because the brain strengthens connections when it corrects errors.
 
 ## 💻 Tech Stack
