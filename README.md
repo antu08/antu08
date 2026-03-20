@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,nextjs,expressjs,html5,css3,tailwindcss,bootstrap,mysql,mongodb,redux,django,flask,pytorch,numpy,tensorflow,keras,scikitlearn,opencv&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,nextjs,expressjs,tailwindcss,bootstrap,mysql,mongodb,redux,django,flask,pytorch,numpy,tensorflow,keras,scikitlearn,opencv&perline=7" />
 </p>
 
 ---
