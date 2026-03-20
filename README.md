@@ -10,6 +10,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=antu08&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff" />
+  
+  <img width="48%" src="https://streak-stats.demolab.com?user=antu08&theme=transparent&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antu08&theme=github_dark" />
+</p>
+
+---
+
 ## ⚙️ System Configuration
 
 <p align="center">
@@ -62,16 +78,3 @@ Current_Mode: "🚀 Building | 📚 Learning | ⚡ Scaling"
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=antu08&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff" />
-  
-  <img width="48%" src="https://streak-stats.demolab.com?user=antu08&theme=transparent&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antu08&theme=github_dark" />
-</p>
