@@ -7,10 +7,6 @@
 - ⚡ Fun fact: Mistakes actually help learning.
                 That's because the brain strengthens connections when it corrects errors.
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VvZGQ4eGd4b2x1dGZ2aG5yZ3Y5eGd4c3NnZ3R1cGZkY3B6a2h5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
-</p>
-
 ## 🧬 Tech DNA
 
 <p align="center">
